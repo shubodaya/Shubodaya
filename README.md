@@ -2,21 +2,27 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Automotive Software-Defined Firewall (SDF) Framework</b>  
+  - [SD-Firewall for Automotive ECUs (Scala, Python, SocketCAN)](https://github.com/shubodaya/SD-Firewall-for-Automotive-Network)  
+    A virtual ECU simulation framework that implements a Python-based firewall to secure CAN communication in automotive networks with logging, attack simulations, and real-time monitoring.
+
+- <b>Smartphone-Based Accident Detection & Notification System</b>  
+  - [Arduino + Bluetooth-Based Emergency Alert System](https://github.com/shubodaya/Emergency-Activation-in-Automobiles-Using-IOT)  
+    Arduino Uno integrated with tilt and flame sensors, connected to an MIT App Inventor Android app, sends real-time location alerts to emergency contacts when an accident is detected.
+
+- <b>Dam Gate Control System (ADA)</b>  
+  - [Water Level-Based Dam Automation in ADA](https://github.com/shubodaya/Dam-Safety-Control-System)  
+    Real-time embedded system written in ADA to control dam gates automatically based on rising or falling water levels with emphasis on safety and reliability.
+
+- <b>3D Portfolio Website</b>  
+  - [3D Developer Portfolio using React & Three.js](https://github.com/shubodaya/3D-Porfolio)  
+    A visually engaging 3D portfolio showcasing personal projects and skills with smooth animations and responsive UI using Three.js and TailwindCSS.
+
+- <b>Help App – Android Emergency Alert Application</b>  
+  - [Bluetooth-Enabled Accident Alert App (MIT App Inventor)](https://github.com/shubodaya/Emergency-Activation-in-Automobiles-Using-IOT)  
+    Android APK that interacts with Arduino via Bluetooth to send instant emergency alerts and coordinates through SMS to preconfigured contacts.
+
+---
 
 <h2>📜 Certifications</h2>
 
