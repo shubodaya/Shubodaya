@@ -20,15 +20,46 @@
 
 <h2>📜 Certifications</h2>
 
-- **CompTIA Network+ (N10-009)**
-- **CompTIA Security+ (SY0-701)**
-- **Microsoft Certified: Azure Fundamentals (AZ-900)  
-- **(ISC)²**: Certified in Cybersecurity (CC)  
-- **Cisco**: Packet Tracer Certification, Network Essentials, Cybersecurity  
-- **Google**: IT Automation with Python, IT Support Professional, Cybersecurity Professional  
-- **SonicWall**: SonicWall Network Security Administrator, SonicWall Network Security Professional  
-- **EC-Council**: Cisco Labs, Dark Web, Cryptocurrency, Configure Juniper SRX Router, SAN and NAS Storage  
-- **Udemy**: CCNA, AZ-500, AZ-700, SC-200, Cybersecurity Job Simulations (PwC, Mastercard, TATA)
+<table>
+  <tr>
+    <td><img src="images/NetworkPlus%20Logo%20Certified%20CE.png" alt="CompTIA Network+ Certified" width="60"/></td>
+    <td><strong>CompTIA Network+ (N10-009)</strong></td>
+  </tr>
+  <tr>
+    <td><img src="images/SecurityPlus%20Logo%20Certified%20CE.png" alt="CompTIA Security+ Certified" width="60"/></td>
+    <td><strong>CompTIA Security+ (SY0-701)</strong></td>
+  </tr>
+  <tr>
+    <td><img src="images/az900.png" alt="Microsoft Certified: Azure Fundamentals" width="60"/></td>
+    <td><strong>Microsoft Certified: Azure Fundamentals (AZ-900)</strong></td>
+  </tr>
+  <tr>
+    <td><img src="images/isc2.png" alt="(ISC)² Certified in Cybersecurity" width="50"/></td>
+    <td><strong>(ISC)² Certified in Cybersecurity (CC)</strong></td>
+  </tr>
+  <tr>
+    <td><img src="images/cisco.png" alt="Cisco Certified" width="50"/></td>
+    <td><strong>Packet Tracer Certification, Networking Essentials, Cybersecurity</strong></td>
+  </tr>
+  <tr>
+    <td><img src="images/google.png" alt="Google Certified" width="50"/></td>
+    <td><strong>IT Automation with Python, IT Support Professional, Cybersecurity Professional</strong></td>
+  </tr>
+  <tr>
+    <td><img src="images/sonicwall.png" alt="SonicWall Certified" width="50"/></td>
+    <td><strong>SonicWall: Network Security Administrator, Network Security Professional</strong></td>
+  </tr>
+  <tr>
+    <td><img src="images/eccouncil.png" alt="EC-Council Certified" width="50"/></td>
+    <td><strong>EC-Council: Cisco Labs, Dark Web, Cryptocurrency, Configure Juniper SRX Router, SAN and NAS Storage</strong></td>
+  </tr>
+  <tr>
+    <td><img src="images/udemy.png" alt="Udemy Certified" width="50"/></td>
+    <td><strong>Udemy: CCNA, AZ-500, AZ-700, SC-200, Cybersecurity Job Simulations (PwC, Mastercard, TATA)</strong></td>
+  </tr>
+</table>
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
