@@ -18,13 +18,17 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📜 Certifications</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- **CompTIA Network+ (N10-009)**
+- **CompTIA Security+ (SY0-701)**
+- **Microsoft Certified: Azure Fundamentals (AZ-900)  
+- **(ISC)²**: Certified in Cybersecurity (CC)  
+- **Cisco**: Packet Tracer Certification, Network Essentials, Cybersecurity  
+- **Google**: IT Automation with Python, IT Support Professional, Cybersecurity Professional  
+- **SonicWall**: SonicWall Network Security Administrator, SonicWall Network Security Professional  
+- **EC-Council**: Cisco Labs, Dark Web, Cryptocurrency, Configure Juniper SRX Router, SAN and NAS Storage  
+- **Udemy**: CCNA, AZ-500, AZ-700, SC-200, Cybersecurity Job Simulations (PwC, Mastercard, TATA)
 
 <h2> 🤳 Connect with me:</h2>
 
