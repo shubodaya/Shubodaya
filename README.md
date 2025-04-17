@@ -22,27 +22,36 @@
 <table>
   <tr>
     <td><img src="images/NetworkPlus%20Logo%20Certified%20CE.png" alt="CompTIA Network+ Certified" width="60"/></td>
-    <td><strong>CompTIA Network+ (N10-009)</strong></td>
+    <td><a href="https://www.credly.com/badges/cbea159f-fb69-4035-bbb3-5e29eef4bcb7/public_url" target="_blank"><strong>CompTIA Network+ (N10-009)</strong></a></td>
   </tr>
   <tr>
     <td><img src="images/SecurityPlus%20Logo%20Certified%20CE.png" alt="CompTIA Security+ Certified" width="60"/></td>
-    <td><strong>CompTIA Security+ (SY0-701)</strong></td>
+    <td><a href="https://www.credly.com/badges/9e429443-91ec-4a7e-8caf-f38af95632e5/public_url" target="_blank"><strong>CompTIA Security+ (SY0-701)</strong></a></td>
   </tr>
   <tr>
     <td><img src="images/az900.png" alt="Microsoft Certified: Azure Fundamentals" width="60"/></td>
-    <td><strong>Microsoft Certified: Azure Fundamentals (AZ-900)</strong></td>
+    <td><a href="https://learn.microsoft.com/api/credentials/share/en-us/Shubodaya-4297/DEC154DF18148FE2?sharingId=2B1885D06503909F" target="_blank"><strong>Microsoft Certified: Azure Fundamentals (AZ-900)</strong></a></td>
   </tr>
   <tr>
     <td><img src="images/isc2.png" alt="(ISC)² Certified in Cybersecurity" width="50"/></td>
-    <td><strong>(ISC)² Certified in Cybersecurity (CC)</strong></td>
+    <td><a href="https://www.credly.com/badges/f3e7e8c8-816a-4f31-8575-731e85366305/public_url" target="_blank"><strong>(ISC)² Certified in Cybersecurity (CC)</strong></a></td>
   </tr>
   <tr>
     <td><img src="images/cisco.png" alt="Cisco Certified" width="50"/></td>
-    <td><strong>Packet Tracer Certification, Networking Essentials, Cybersecurity</strong></td>
+    <td>
+      <a href="https://www.credly.com/badges/144daaf0-da3d-47d9-8e9a-4d0c3580fc1a/public_url" target="_blank"><strong>Packet Tracer Certification</strong></a>, 
+      <a href="https://www.credly.com/badges/3e3e57a6-4d7f-4db5-b211-ac78d7543b3d/public_url" target="_blank"><strong>Networking Essentials</strong></a>, 
+      <a href="https://www.credly.com/badges/6a45dfa6-7c08-4bbb-917a-e3b3454560aa/public_url" target="_blank"><strong>Cybersecurity</strong></a>
+    </td>
   </tr>
   <tr>
     <td><img src="images/google.png" alt="Google Certified" width="50"/></td>
-    <td><strong>IT Automation with Python, IT Support Professional, Cybersecurity Professional</strong></td>
+    <td><strong> IT Automation with Python</strong>
+      ,
+      <a href="https://www.credly.com/badges/f92f11cf-31d7-4f18-84bf-9f013c2c97d5/public_url" target="_blank"><strong> IT Support Professional</strong></a>
+      , 
+      <a href="https://www.credly.com/badges/41d5a54b-7a6a-4c52-ae5e-e5d7bd06be7d/public_url" target="_blank"><strong>Cybersecurity Professional</strong></a>
+    </td>
   </tr>
   <tr>
     <td><img src="images/sonicwall.png" alt="SonicWall Certified" width="50"/></td>
