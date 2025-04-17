@@ -46,7 +46,7 @@
   </tr>
   <tr>
     <td><img src="images/sonicwall.png" alt="SonicWall Certified" width="50"/></td>
-    <td><strong>SonicWall Network Security Administrator, SoonicWall Network Security Professional</strong></td>
+    <td><strong>SNSA, SNSP</strong></td>
   </tr>
   <tr>
     <td><img src="images/eccouncil.png" alt="EC-Council Certified" width="50"/></td>
