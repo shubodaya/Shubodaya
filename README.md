@@ -47,15 +47,15 @@
   </tr>
   <tr>
     <td><img src="images/sonicwall.png" alt="SonicWall Certified" width="50"/></td>
-    <td><strong>SonicWall: Network Security Administrator, Network Security Professional</strong></td>
+    <td><strong>SonicWall Network Security Administrator, SoonicWall Network Security Professional</strong></td>
   </tr>
   <tr>
     <td><img src="images/eccouncil.png" alt="EC-Council Certified" width="50"/></td>
-    <td><strong>EC-Council: Cisco Labs, Dark Web, Cryptocurrency, Configure Juniper SRX Router, SAN and NAS Storage</strong></td>
+    <td><strong>Cisco Labs, Dark Web, Cryptocurrency, Configure Juniper SRX Router, SAN and NAS Storage</strong></td>
   </tr>
   <tr>
     <td><img src="images/udemy.png" alt="Udemy Certified" width="50"/></td>
-    <td><strong>Udemy: CCNA, AZ-500, AZ-700, SC-200, Cybersecurity Job Simulations (PwC, Mastercard, TATA)</strong></td>
+    <td><strong>CCNA, AZ-500, AZ-700, SC-200, Cybersecurity Job Simulations (PwC, Mastercard, TATA)</strong></td>
   </tr>
 </table>
 
@@ -69,7 +69,7 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://x.com/chubbihn
-[instagram]: https://www.instagram.com/joshmadakor/
+[instagram]: https://www.instagram.com/shubodaya_gowda/
 [linkedin]: https://linkedin.com/in/shubodaya
 
 <!--
