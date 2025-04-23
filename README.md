@@ -18,16 +18,16 @@
 <h2>📚 Research Works:</h2>
 
 - <b>Security and Privacy in Generative AI</b>  
-  - Reviewed risks, ethical concerns, and mitigation strategies in AI models. Identified research gaps and proposed solutions for secure AI systems. *(Coursework)*
+  - Reviewed risks, ethical concerns, and mitigation strategies in AI models. Identified research gaps and proposed solutions for secure AI systems. 
 
 - <b>Modern Cryptographic Techniques</b>  
-  - Analyzed TLS security, ECC, RSA, and Diffie-Hellman, focusing on attack resistance and mobile/IoT security. *(Coursework)*
+  - Analyzed TLS security, ECC, RSA, and Diffie-Hellman, focusing on attack resistance and mobile/IoT security. 
 
 - <b>Ontology-Based Access Control for IoT</b>  
-  - Explored OBAC for autonomous vehicles, comparing it with RBAC/ABAC and proposing ML-driven optimizations for dynamic access control. *(Coursework)*
+  - Explored OBAC for autonomous vehicles, comparing it with RBAC/ABAC and proposing ML-driven optimizations for dynamic access control. 
 
 - <b>IoT Accident Detection System</b>  
-  - Reviewed IoT-based crash detection systems for real-time emergency alerts and improved road safety. *(BEng Project)*
+  - Reviewed IoT-based crash detection systems for real-time emergency alerts and improved road safety. 
 
 ---
 
