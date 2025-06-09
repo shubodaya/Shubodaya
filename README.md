@@ -2,8 +2,7 @@
 
 <h2>👨‍💻Projects:</h2>
 
-- <b>Automotive Software-Defined Firewall (SDF) Framework</b>  
-  - [SD-Firewall for Automotive ECUs (Scala, Python, SocketCAN)](https://github.com/shubodaya/SD-Firewall-for-Automotive-Network)  
+- <b>[SD-Firewall for Automotive ECUs (Scala, Python, SocketCAN)](https://github.com/shubodaya/SD-Firewall-for-Automotive-Network)</b>   
 
 - <b>Smartphone-Based Accident Detection & Notification System</b>  
   - [Arduino + Bluetooth + Sensors-Based Emergency Alert System](https://github.com/shubodaya/Emergency-Activation-in-Automobiles-Using-IOT)
