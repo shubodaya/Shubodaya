@@ -6,7 +6,7 @@
 
 - <b>[IOT-Based Accident Detection & Notification System](https://github.com/shubodaya/Emergency-Activation-in-Automobiles-Using-IOT)</b>   
 
-- <b>[Water Level-Based Dam Automation in ADA](https://github.com/shubodaya/Dam-Safety-Control-System)</b>  
+- <b>[Water Level-Based Dam Automation using ADA](https://github.com/shubodaya/Dam-Safety-Control-System)</b>  
 
 - <b>[3D Developer Portfolio using React & Three.js](https://github.com/shubodaya/3D-Porfolio)</b>
 
