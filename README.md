@@ -6,12 +6,12 @@
 
 - <b>[IOT-Based Accident Detection & Notification System](https://github.com/shubodaya/Emergency-Activation-in-Automobiles-Using-IOT)</b>   
 
-- <b>Python Projects</b>  
-  - [Automate Updates to Catalog Information](https://github.com/shubodaya/Python-Projects/tree/main/Automate-Update-to-Catalog)
-
 - <b>[Water Level-Based Dam Automation in ADA](https://github.com/shubodaya/Dam-Safety-Control-System)</b>  
 
-- <b>[3D Developer Portfolio using React & Three.js](https://github.com/shubodaya/3D-Porfolio)</b>  
+- <b>[3D Developer Portfolio using React & Three.js](https://github.com/shubodaya/3D-Porfolio)</b>
+
+- <b>Python Projects</b>  
+  - [Automate Updates to Catalog Information](https://github.com/shubodaya/Python-Projects/tree/main/Automate-Update-to-Catalog)
   
 <h2>📚 Research Works:</h2>
 This is a curated collection of my academic research projects. Full documents and summaries are available in the repository: 
