@@ -9,6 +9,9 @@
   - [Arduino + Bluetooth + Sensors-Based Emergency Alert System](https://github.com/shubodaya/Emergency-Activation-in-Automobiles-Using-IOT)
   - [Bluetooth-Enabled Accident Alert App (MIT App Inventor)](https://github.com/shubodaya/Emergency-Activation-in-Automobiles-Using-IOT)  
 
+- <b>Python Projects</b>  
+  - [Automate Updates to Catalog Information](https://github.com/shubodaya/Python-Projects/tree/main/Automate-Update-to-Catalog)
+
 - <b>Dam Gate Control System (ADA)</b>  
   - [Water Level-Based Dam Automation in ADA](https://github.com/shubodaya/Dam-Safety-Control-System)  
 
