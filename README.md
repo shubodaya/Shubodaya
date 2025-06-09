@@ -10,7 +10,7 @@
 
 - <b>[3D Developer Portfolio using React & Three.js](https://github.com/shubodaya/3D-Porfolio)</b>
 
-- <b>Python Projects</b>  
+- <b>[Python Projects](https://github.com/shubodaya/Python-Projects/tree/main)</b>  
   - [Automate Updates to Catalog Information](https://github.com/shubodaya/Python-Projects/tree/main/Automate-Update-to-Catalog)
   
 <h2>📚 Research Works:</h2>
