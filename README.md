@@ -2,7 +2,7 @@
 
 <h2>👨‍💻Projects:</h2>
 
-- <b>[Home SOC Lab with Microsoft Sentinel](https://github.com/shubodaya/SD-Firewall-for-Automotive-Network)</b>
+- <b>[Home SOC Lab with Microsoft Sentinel](https://github.com/shubodaya/HomeSOC)</b>
 
 - <b>[SD-Firewall for Automotive ECUs (Scala, Python, SocketCAN)](https://github.com/shubodaya/SD-Firewall-for-Automotive-Network)</b>   
 
