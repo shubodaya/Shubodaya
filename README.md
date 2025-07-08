@@ -2,6 +2,8 @@
 
 <h2>👨‍💻Projects:</h2>
 
+- <b>[Home SOC Lab with Microsoft Sentinel](https://github.com/shubodaya/SD-Firewall-for-Automotive-Network)</b>
+
 - <b>[SD-Firewall for Automotive ECUs (Scala, Python, SocketCAN)](https://github.com/shubodaya/SD-Firewall-for-Automotive-Network)</b>   
 
 - <b>[IOT-Based Accident Detection & Notification System](https://github.com/shubodaya/Emergency-Activation-in-Automobiles-Using-IOT)</b>   
@@ -11,7 +13,6 @@
 - <b>[3D Developer Portfolio using React & Three.js](https://github.com/shubodaya/3D-Porfolio)</b>
 
 - <b>[Python Automation Projects](https://github.com/shubodaya/Python-Projects/tree/main)</b>  
-  - [Automate Updates to Catalog Information](https://github.com/shubodaya/Python-Projects/tree/main/Automate-Update-to-Catalog)
   
 <h2>📚 Research Works:</h2>
 This is a curated collection of my academic research projects. Full documents and summaries are available in the repository: 
