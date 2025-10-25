@@ -12,7 +12,7 @@
 
 - <b>[Water Level-Based Dam Automation using ADA](https://github.com/shubodaya/Dam-Safety-Control-System)</b>  
 
-- <b>[3D Developer Portfolio using React & Three.js](https://github.com/shubodaya/3D-Porfolio)</b>
+- <b>[Portfolio website using React & Three.js](https://github.com/shubodaya/3D-Porfolio)</b>
 
   
 <h2>📚 Research Works:</h2>
