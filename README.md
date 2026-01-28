@@ -12,7 +12,7 @@
 
 - <b>[Water Level-Based Dam Automation using ADA](https://github.com/shubodaya/Dam-Safety-Control-System)</b>  
 
-- <b>[Portfolio website](https://github.com/shubodaya/3D-Porfolio)</b>
+- <b>[Portfolio website](https://github.com/shubodaya/portfolio-net)</b>
 
   
 <h2>📚 Research Works:</h2>
