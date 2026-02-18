@@ -1,4 +1,4 @@
-<h1>Hi, I'm Shubodaya! <br/><a href="https://github.com/shubodaya">Programmer</a>, <a href="https://www.linkedin.com/in/shubodaya/">IT Support</a>, <a href="https://www.linkedin.com/in/shubodaya/"> Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Shubodaya! <br/><a href="https://github.com/shubodaya">Programmer</a>, <a href="https://www.linkedin.com/in/shubodaya/">Network Engineer</a>, <a href="https://www.linkedin.com/in/shubodaya/"> Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻Projects:</h2>
 
@@ -25,7 +25,7 @@ This is a curated collection of my academic research projects. Full documents an
 - <b>Ontology-Based Access Control for IoT</b> : Explored OBAC for autonomous vehicles, comparing it with RBAC/ABAC and proposing ML-driven optimizations for dynamic access control. 
 
 - <b>IoT Accident Detection System</b> : Reviewed IoT-based crash detection systems for real-time emergency alerts and improved road safety.
-- [GitHub – Research Works Repository](https://github.com/shubodaya/researchwork)
+- [GitHub – Research Work Repository](https://github.com/shubodaya/researchwork)
 ---
 
 <h2>📜 Certifications</h2>
