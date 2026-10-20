@@ -88,9 +88,9 @@ A collection of academic research covering cybersecurity, cryptography, access c
     <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/shubodaya/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="40" height="40"/>
-  </a>
+  <a href="https://www.linkedin.com/in/shubodaya/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>  
   &nbsp;&nbsp;
   <a href="https://x.com/chubbihn" target="_blank">
     <img src="https://cdn.simpleicons.org/x/000000" alt="X" width="40" height="40"/>
