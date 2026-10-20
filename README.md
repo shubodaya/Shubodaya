@@ -1,4 +1,10 @@
-<h1>Hi, I'm Shubodaya! <br/><a href="https://github.com/shubodaya">Programmer</a>, <a href="https://www.linkedin.com/in/shubodaya/">Network Engineer</a>, <a href="https://www.linkedin.com/in/shubodaya/"> Cybersecurity Professional</a></h1>
+
+<h1>Hi, I'm Shubodaya! 👋 <br/>
+  <a href="https://github.com/shubodaya">Network Engineer</a>,
+  <a href="https://www.linkedin.com/in/shubodaya/">Network Automation & NetDevOps</a>,
+  <a href="https://www.linkedin.com/in/shubodaya/">Cybersecurity Professional</a>
+</h1>
+
 
 <h2>👨‍💻Projects:</h2>
 
