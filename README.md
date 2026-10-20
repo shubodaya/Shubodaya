@@ -1,113 +1,100 @@
 
-<h1>Hi, I'm Shubodaya! 👋 <br/>
-  <a href="https://github.com/shubodaya">Network Engineer</a>,
-  <a href="https://www.linkedin.com/in/shubodaya/">Network Automation & NetDevOps</a>,
+<h1>Hi, I'm Shubodaya! 👋</h1>
+
+<h3>
+  <a href="https://github.com/shubodaya">Network Engineer</a> |
+  <a href="https://www.linkedin.com/in/shubodaya/">Network Automation & NetDevOps</a> |
   <a href="https://www.linkedin.com/in/shubodaya/">Cybersecurity Professional</a>
-</h1>
+</h3>
 
+<p>
+  Network Engineer with experience in enterprise networking, firewall security,
+  troubleshooting, and network operations. Interested in network automation,
+  infrastructure as code, Python, and building practical networking and security tools.
+</p>
 
-<h2>👨‍💻Projects:</h2>
+---
 
-- <b>[Home SOC Lab with Microsoft Sentinel](https://github.com/shubodaya/HomeSOC)</b>
+<h2>👨‍💻 Featured Projects</h2>
 
-- <b>[Python Automation Projects](https://github.com/shubodaya/Python-Projects/tree/main)</b>  
+### 🌐 Network Automation & Programming
 
-- <b>[SD-Firewall for Automotive ECUs (Scala, Python, SocketCAN)](https://github.com/shubodaya/SD-Firewall-for-Automotive-Network)</b>   
+- **[Python Automation Projects](https://github.com/shubodaya/Python-Projects/tree/main)** — Python scripting and automation projects.
+- **[Netravax / Portfolio Website](https://github.com/shubodaya/portfolio-net)** — Personal portfolio and technical projects.
+- **[SD Firewall for Automotive ECUs](https://github.com/shubodaya/SD-Firewall-for-Automotive-Network)** — Software-defined firewall using Scala, Python and SocketCAN.
 
-- <b>[IOT-Based Accident Detection & Notification System](https://github.com/shubodaya/Emergency-Activation-in-Automobiles-Using-IOT)</b>   
+### 🔐 Cybersecurity & Network Security
 
-- <b>[Water Level-Based Dam Automation using ADA](https://github.com/shubodaya/Dam-Safety-Control-System)</b>  
+- **[Home SOC Lab with Microsoft Sentinel](https://github.com/shubodaya/HomeSOC)** — Cloud security monitoring, security event analysis and incident response.
+- **[IoT-Based Accident Detection & Notification System](https://github.com/shubodaya/Emergency-Activation-in-Automobiles-Using-IOT)** — IoT-based accident detection and emergency notification.
+- **[Water Level-Based Dam Automation](https://github.com/shubodaya/Dam-Safety-Control-System)** — Automated control system using Ada.
 
-- <b>[Portfolio website](https://github.com/shubodaya/portfolio-net)</b>
+---
 
-  
-<h2>📚 Research Works:</h2>
-This is a curated collection of my academic research projects. Full documents and summaries are available in the repository: 
+<h2>🛠️ Technical Skills</h2>
 
-- <b>Security and Privacy in Generative AI</b> : Reviewed risks, ethical concerns, and mitigation strategies in AI models. Identified research gaps and proposed solutions for secure AI systems. 
+**Networking:** Routing & Switching, TCP/IP, OSPF, BGP, VLANs, NAT/PAT, DNS, DHCP, SD-WAN, VPNs, Firewalls
 
-- <b>Modern Cryptographic Techniques</b> : Analyzed TLS security, ECC, RSA, and Diffie-Hellman, focusing on attack resistance and mobile/IoT security. 
+**Network Security:** Firewall Policies, IPsec/SSL VPN, Network Troubleshooting, Packet Analysis, Security Monitoring
 
-- <b>Ontology-Based Access Control for IoT</b> : Explored OBAC for autonomous vehicles, comparing it with RBAC/ABAC and proposing ML-driven optimizations for dynamic access control. 
+**Programming & Automation:** Python, Bash, PowerShell, REST APIs, Git
 
-- <b>IoT Accident Detection System</b> : Reviewed IoT-based crash detection systems for real-time emergency alerts and improved road safety.
-- [GitHub – Research Work Repository](https://github.com/shubodaya/researchwork)
+**Infrastructure & Cloud:** Linux, AWS, Microsoft Azure, Microsoft Sentinel
+
+**Tools:** Wireshark, PuTTY, GitHub, FastAPI, React
+
+---
+
+<h2>📚 Research Works</h2>
+
+A collection of academic research projects covering cybersecurity, cryptography, access control and IoT security.
+
+- **Security and Privacy in Generative AI** — Explored security risks, ethical concerns, mitigation strategies and research gaps in generative AI.
+- **Modern Cryptographic Techniques** — Analysed TLS, ECC, RSA and Diffie-Hellman, focusing on security and mobile/IoT applications.
+- **Ontology-Based Access Control for IoT** — Explored ontology-based access control for autonomous vehicles and compared it with RBAC and ABAC.
+- **IoT Accident Detection System** — Reviewed IoT-based crash detection, emergency alerts and road safety systems.
+
+📖 **[View Research Work Repository](https://github.com/shubodaya/researchwork)**
+
 ---
 
 <h2>📜 Certifications</h2>
 
-<table>
-  <tr>
-    <td><img src="images/NetworkPlus%20Logo%20Certified%20CE.png" alt="CompTIA Network+ Certified" width="60"/></td>
-    <td><a href="https://www.credly.com/badges/cbea159f-fb69-4035-bbb3-5e29eef4bcb7/public_url" target="_blank" style="text-decoration: none; color: inherit;"><strong>CompTIA Network+ (N10-009)</strong></a></td>
-  </tr>
-  <tr>
-    <td><img src="images/SecurityPlus%20Logo%20Certified%20CE.png" alt="CompTIA Security+ Certified" width="60"/></td>
-    <td><a href="https://www.credly.com/badges/9e429443-91ec-4a7e-8caf-f38af95632e5/public_url" target="_blank" style="text-decoration: none; color: inherit;"><strong>CompTIA Security+ (SY0-701)</strong></a></td>
-  </tr>
-  <tr>
-    <td><img src="images/az900.png" alt="Microsoft Certified: Azure Fundamentals" width="60"/></td>
-    <td><a href="https://learn.microsoft.com/api/credentials/share/en-us/Shubodaya-4297/DEC154DF18148FE2?sharingId=2B1885D06503909F" target="_blank" style="text-decoration: none; color: inherit;"><strong>Microsoft Certified: Azure Fundamentals (AZ-900)</strong></a></td>
-  </tr>
-  <tr>
-    <td><img src="images/isc2.png" alt="(ISC)² Certified in Cybersecurity" width="50"/></td>
-    <td><a href="https://www.credly.com/badges/f3e7e8c8-816a-4f31-8575-731e85366305/public_url" target="_blank" style="text-decoration: none; color: inherit;"><strong>(ISC)² Certified in Cybersecurity (CC)</strong></a></td>
-  </tr>
-  <tr>
-    <td><img src="images/cisco.png" alt="Cisco Certified" width="50"/></td>
-    <td>
-      <a href="https://www.credly.com/badges/144daaf0-da3d-47d9-8e9a-4d0c3580fc1a/public_url" target="_blank" style="text-decoration: none; color: inherit;"><strong>Packet Tracer Certification</strong></a>, 
-      <a href="https://www.credly.com/badges/3e3e57a6-4d7f-4db5-b211-ac78d7543b3d/public_url" target="_blank" style="text-decoration: none; color: inherit;"><strong>Networking Essentials</strong></a>, 
-      <a href="https://www.credly.com/badges/6a45dfa6-7c08-4bbb-917a-e3b3454560aa/public_url" target="_blank" style="text-decoration: none; color: inherit;"><strong>Cybersecurity</strong></a>
-    </td>
-  </tr>
-  <tr>
-    <td><img src="images/google.png" alt="Google Certified" width="50"/></td>
-    <td><strong> IT Automation with Python</strong>
-      ,
-      <a href="https://www.credly.com/badges/f92f11cf-31d7-4f18-84bf-9f013c2c97d5/public_url" target="_blank" style="text-decoration: none; color: inherit;"><strong> IT Support Professional</strong></a>
-      , 
-      <a href="https://www.credly.com/badges/41d5a54b-7a6a-4c52-ae5e-e5d7bd06be7d/public_url" target="_blank" style="text-decoration: none; color: inherit;"><strong>Cybersecurity Professional</strong></a>
-    </td>
-  </tr>
-  <tr>
-    <td><img src="images/sonicwall.png" alt="SonicWall Certified" width="50"/></td>
-    <td><strong>SNSA, SNSP</strong></td>
-  </tr>
-  <tr>
-    <td><img src="images/eccouncil.png" alt="EC-Council Certified" width="50"/></td>
-    <td><strong>Cisco Labs, Dark Web, Cryptocurrency, Configure Juniper SRX Router, SAN and NAS Storage</strong></td>
-  </tr>
-  <tr>
-    <td><img src="images/udemy.png" alt="Udemy Certified" width="50"/></td>
-    <td><strong>CCNA, AZ-500, AZ-700, SC-200, Cybersecurity Job Simulations (PwC, Mastercard, TATA)</strong></td>
-  </tr>
-</table>
+### Networking & Security
 
+- [CompTIA Network+](https://www.credly.com/badges/cbea159f-fb69-4035-bbb3-5e29eef4bcb7/public_url)
+- [CompTIA Security+](https://www.credly.com/badges/9e429443-91ec-4a7e-8caf-f38af95632e5/public_url)
+- SonicWall Network Security Administrator (SNSA)
+- SonicWall Network Security Professional (SNSP)
+- [(ISC)² Certified in Cybersecurity](https://www.credly.com/badges/f3e7e8c8-816a-4f31-8575-731e85366305/public_url)
 
+### Cloud & IT
 
-<h2> 🤳 Connect with me:</h2>
+- [Microsoft Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/en-us/Shubodaya-4297/DEC154DF18148FE2?sharingId=2B1885D06503909F)
+- [Google IT Support Professional](https://www.credly.com/badges/f92f11cf-31d7-4f18-84bf-9f013c2c97d5/public_url)
+- Google IT Automation with Python
 
+### Cisco & Additional Training
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- [Cisco Packet Tracer Certification](https://www.credly.com/badges/144daaf0-da3d-47d9-8e9a-4d0c3580fc1a/public_url)
+- [Cisco Networking Essentials](https://www.credly.com/badges/3e3e57a6-4d7f-4db5-b211-ac78d7543b3d/public_url)
+- [Cisco Cybersecurity](https://www.credly.com/badges/6a45dfa6-7c08-4bbb-917a-e3b3454560aa/public_url)
+- Google Cybersecurity Professional
+- Additional training: CCNA, AZ-500, AZ-700, SC-200, Juniper SRX, Cisco Labs, Dark Web, Cryptocurrency, SAN/NAS Storage and cybersecurity job simulations.
 
-[twitter]: https://x.com/chubbihn
-[instagram]: https://www.instagram.com/shubodaya_gowda/
-[linkedin]: https://linkedin.com/in/shubodaya
+---
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>🤝 Connect With Me</h2>
 
-Here are some ideas to get you started:
+- 💼 [LinkedIn](https://www.linkedin.com/in/shubodaya/)
+- 💻 [GitHub](https://github.com/shubodaya)
+- 🌐 [Portfolio](https://github.com/shubodaya/portfolio-net)
+- 📸 [Instagram](https://www.instagram.com/shubodaya_kumar/)
+- 🐦 [X](https://x.com/chubbihn)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p>
+  Interested in networking, automation, cybersecurity and building practical
+  tools that solve real-world infrastructure problems.
+</p>
