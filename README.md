@@ -58,7 +58,7 @@ A collection of academic research covering cybersecurity, cryptography, access c
 
 <h3>Networking & Security</h3>
 
-- Cisco Certified Network Associate (CCNA)
+- <a href= "https://www.credly.com/badges/9c16f7d1-c1e7-4f46-b3e3-a19c3c0b3135/linked_in_profile">Cisco Certified Network Associate (CCNA)</a>
 - <a href="https://www.credly.com/badges/cbea159f-fb69-4035-bbb3-5e29eef4bcb7/public_url">CompTIA Network+</a>
 - <a href="https://www.credly.com/badges/9e429443-91ec-4a7e-8caf-f38af95632e5/public_url">CompTIA Security+</a>
 - SonicWall Network Security Administrator (SNSA)
@@ -88,9 +88,12 @@ A collection of academic research covering cybersecurity, cryptography, access c
     <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/shubodaya/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>  
+  <a href="https://www.linkedin.com/in/shubodaya/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"
+       alt="LinkedIn"
+       width="40"
+       height="40"/>
+  </a> 
   &nbsp;&nbsp;
   <a href="https://x.com/chubbihn" target="_blank">
     <img src="https://cdn.simpleicons.org/x/000000" alt="X" width="40" height="40"/>
